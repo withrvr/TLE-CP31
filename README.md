@@ -15,11 +15,14 @@
   - End   : 29 June 2024
 - 900
   - start : 2 July 2024
-  - end   : ???
+  - end   : 8 August 2024
+- 1000
+  - start : ??
+  - end   : ??
 
 ## 📂 : Folder Structure
 - level (eg: 800)
   - 0-notes.pdf (written notes by me for revision)
-  - [1-31-no_name].cpp (code for all 31 problem)
+  - [Problem_Name].cpp (code for all 31 problem)
 - readme.md
 - ... other files

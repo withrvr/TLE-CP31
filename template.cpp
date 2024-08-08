@@ -1,20 +1,22 @@
 #include <bits/stdc++.h>
-#define ll long long
 #define endl '\n'
 #define mod 1000000007
+typedef long long ll;
+typedef unsigned long long ull;
 using namespace std;
 
 void yes() { cout << "YES" << endl; }
 void no() { cout << "NO" << endl; }
 
 void solve() {
-    // ll i, j, k, m;
-    // ll val, x, y, z;
-    // ll res=0, maxi=LONG_MIN, mini=LONG_MAX;
-    // string str;
-    // cin >> str;
     // ll n;
     // cin >> n;
+    // string str;
+    // cin >> str;
+
+    // ll i, j, k, m;
+    // ll val, x, y, z;
+    // ll res=0, maxi=LLONG_MIN, mini=LLONG_MAX;
 
     // vector<ll> arr(n);
     // for(ll &val: arr) {
@@ -23,14 +25,14 @@ void solve() {
 
     // vector<ll> arr;
     // ll val;
-    // for (i = 0; i < n; ++i) {
+    // for (ll i = 0; i < n; ++i) {
     // cin >> val;
     // arr.push_back(val);
     // }
 
     // sort(arr.begin(), arr.end(), greater<>());
 
-    // for (i = 0; i < n; ++i) {
+    // for (ll i = 0; i < n; ++i) {
 
     // }
     // cout << res << endl;
@@ -48,7 +50,7 @@ int main() {
     // pre_fun();
 
     ll t = 1;
-    // cin >> t;
+    cin >> t;
     for (ll i = 1; i <= t; ++i) {
         solve();
     }

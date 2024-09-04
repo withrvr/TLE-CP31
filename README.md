@@ -17,7 +17,7 @@
   - start : 2 July 2024
   - end   : 8 August 2024
 - 1000
-  - start : ??
+  - start : 10 August 2024
   - end   : ??
 
 ## 📂 : Folder Structure
